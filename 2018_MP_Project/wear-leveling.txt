@@ -1,0 +1,5 @@
+Running Time: 24335.979 ms
+Variation of erase count : 11706.342657 
+Total # of program:	2344337 	 running time: 468867400.000000
+Total # of read:	1192700 	 running time: 29817500.000000
+Total # of erase:	21402 	 running time: 32103000.000000
